@@ -1,0 +1,20 @@
+﻿<ksiegarnia>
+ <ksiazka kategoria="Gotowanie">
+ <jezyk kraj= "pl">Zdrowe gotowanie</jezyk>
+ <autor>Jan Nowak</autor>
+ <rok>2010</rok>
+ <cena>57.00</cena>
+ </ksiazka>
+ <ksiazka kategoria="Dzieci">
+ <jezyk kraj = "en">Harry Potter</jezyk>
+ <autor>J K. Rowling</autor>
+ <rok>2005</rok>
+ <cena>55.00</cena>
+ </ksiazka>
+ <ksiazka kategoria="IT">
+ <jezyk kraj = "pl">Encyklopedia Excel</jezyk>
+ <autor>Przemysław Pedrycz</autor>
+ <rok>2016</rok>
+ <cena>45.00</cena>
+ </ksiazka>
+ </ksiegarnia>

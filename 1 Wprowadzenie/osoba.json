@@ -1,0 +1,20 @@
+{
+   "name":"Jan",
+   "age":35,
+   "contactNumbers":
+   [
+      {
+         "type":"Domowy",
+         "number":"123 123-123"
+      },
+      {
+         "type":"Biuro",
+         "number":"321 321-321"
+      }
+   ],
+   "email":null,
+   "favoriteSports":[
+      "Piłka",
+      "Koszykówka"
+   ]
+}

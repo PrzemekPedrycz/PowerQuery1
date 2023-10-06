@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumentyZaswiadczenLekarskich>
+  <dane>
+    <typDokumentu>ZLA</typDokumentu>
+    <identyfikatorZaswiadczenia>ZQ6446012</identyfikatorZaswiadczenia>
+    <ubezpieczony>MICHAŁ DENDZEL PESEL 89050223305</ubezpieczony>
+    <dataWyslania>2021-11-20</dataWyslania>
+    <kodSystemu>Gab</kodSystemu>
+  </dane>
+  <dane>
+    <typDokumentu>ZLA</typDokumentu>
+    <identyfikatorZaswiadczenia>ZR1123158</identyfikatorZaswiadczenia>
+    <ubezpieczony>MICHAŁ DENDZEL PESEL 89050223305</ubezpieczony>
+    <dataWyslania>2021-10-15</dataWyslania>
+    <kodSystemu>NPI</kodSystemu>
+  </dane>
+  <dane>
+    <typDokumentu>ZLA</typDokumentu>
+    <identyfikatorZaswiadczenia>ZZ1477062</identyfikatorZaswiadczenia>
+    <ubezpieczony>MARTA NOWA PESEL 82041623121</ubezpieczony>
+    <dataWyslania>2018-10-23</dataWyslania>
+    <kodSystemu>Gab</kodSystemu>
+  </dane>
+  <dane>
+    <typDokumentu>ZLA</typDokumentu>
+    <identyfikatorZaswiadczenia>ZZ2144839</identyfikatorZaswiadczenia>
+    <ubezpieczony>MARTA NOWA PESEL 82041623121</ubezpieczony>
+    <dataWyslania>2018-10-03</dataWyslania>
+    <kodSystemu>NPI</kodSystemu>
+  </dane>
+  <dane>
+    <typDokumentu>ZLA</typDokumentu>
+    <identyfikatorZaswiadczenia>ZZ2890457</identyfikatorZaswiadczenia>
+    <ubezpieczony>MARTA NOWA PESEL 82041623121</ubezpieczony>
+    <dataWyslania>2018-08-11</dataWyslania>
+    <kodSystemu>NPI</kodSystemu>
+  </dane>
+</dokumentyZaswiadczenLekarskich>
